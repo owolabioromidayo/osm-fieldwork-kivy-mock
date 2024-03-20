@@ -1,0 +1,6 @@
+kivy_venv/
+eidtor.kv
+*.mbtiles
+*test*
+editor.kv
+todo
