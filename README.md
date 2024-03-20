@@ -7,13 +7,15 @@
 - Support for 'required' and 'default' values
 - Custom classes for file selection and radio buttons.
 - Links to osm_fieldwork and executes the respective function with gathered form args.
-- Can compile to android using buildozer (but still some issues linking the osm-fieldwork module on the android build)
+- Can compile to android using buildozer 
 - Logs the program output inside an application (good for mobile debugging).
 - Argument fields in the form have clickable explanations.
 
 ## Considerations
-- Textfield type validation (comma seperated, URL) etc, can be added easily
+- TextField type validation (comma separated, URL) etc, can be added easily .
 - No ScreenManager yet.
+- No Homescreen, logo, UI design or theming.
+- Does not compile to android with the osm-fieldwork module imported ( investigating this).
 
 
 ## Some Pictures
